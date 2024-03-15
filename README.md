@@ -1,6 +1,6 @@
 
 
- ### Hi there <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="60px;" >
+ <h1 align='center'>Hi there ~! <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="60px;" ></h1>
 
 <!--
 **tae2j/tae2j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
